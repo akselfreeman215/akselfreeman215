@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aksel Freeman!
+- 👀 I’m interested in Full Stack engineering.
+- 🌱 I’m currently learning how to create machine learning algorithms for artificial intelligence.
+- 💞️ I’m looking to collaborate on machine learning programming.
+- 📫 You can reach me at my email: akselfreeman215@gmail.com
